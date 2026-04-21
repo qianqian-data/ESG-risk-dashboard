@@ -1,0 +1,431 @@
+symbol,name,sector,total_esg,E_score,S_score,G_score,official_risk_level,weighted_risk_score,model_risk_level
+EMN,Eastman Chemical Company,Basic Materials,25.3,12.8,5.8,6.6,Medium,9.15,Medium
+DPZ,Domino's Pizza Inc.,Consumer Cyclical,29.2,10.6,12.2,6.3,Medium,9.95,Medium
+DVA,Davita Inc.,Healthcare,22.6,0.1,14.1,8.4,Medium,9.59,Medium
+DRI,"Darden Restaurants, Inc.",Consumer Cyclical,27.5,7.9,15.0,4.6,Medium,9.75,Medium
+ZTS,Zoetis Inc.,Healthcare,18.8,3.2,6.8,8.7,Low,6.65,Low
+ZBH,"Zimmer Biomet Holdings, Inc.",Healthcare,26.0,3.6,14.5,7.9,Medium,10.34,Medium
+YUM,"Yum! Brands, Inc.",Consumer Cyclical,20.1,4.5,11.4,4.1,Medium,7.14,Low
+XYL,Xylem Inc,Industrials,18.1,4.3,8.7,5.2,Low,5.89,Low
+XEL,"Xcel Energy, Inc.",Utilities,26.5,12.7,9.3,4.5,Medium,9.8,Medium
+WYNN,Wynn Resorts Ltd,Consumer Cyclical,25.7,3.4,11.8,10.6,Medium,8.92,Medium
+WTW,Willis Towers Watson Public Limited Companys,Financial Services,18.7,0.1,7.8,10.8,Low,7.76,Medium
+WMB,Williams Companies Inc.,Energy,21.8,8.7,10.1,3.0,Medium,7.62,Medium
+WY,Weyerhaeuser Company,Real Estate,16.7,9.1,4.2,3.5,Low,5.11,Low
+WDC,Western Digital Corp.,Technology,11.4,1.5,3.9,6.1,Low,3.96,Low
+WELL,Welltower Inc.,Real Estate,13.2,4.2,3.5,5.5,Low,4.58,Low
+WFC,Wells Fargo & Co.,Financial Services,36.2,2.0,14.8,19.4,High,14.54,Severe
+WEC,"Wec Energy Group, Inc.",Utilities,27.5,13.4,9.0,5.1,Medium,10.22,Medium
+WAT,Waters Corp,Healthcare,14.6,1.4,8.2,5.1,Low,5.91,Low
+WM,"Waste Management, Inc.",Industrials,16.6,8.1,5.2,3.3,Low,5.79,Low
+WMT,Walmart Inc.,Consumer Defensive,25.3,5.9,12.4,7.1,Medium,8.86,Medium
+WBA,"Walgreens Boots Alliance, Inc",Healthcare,16.3,1.8,9.3,5.2,Low,6.57,Low
+WAB,Wabtec Inc.,Industrials,23.3,5.4,12.0,6.0,Medium,7.56,Medium
+GWW,"W.W. Grainger, Inc.",Industrials,16.0,4.5,5.6,5.9,Low,5.25,Low
+WRB,W.R. Berkley Corporation,Financial Services,21.8,2.0,7.9,11.9,Medium,8.72,Medium
+VMC,Vulcan Materials Company,Basic Materials,29.3,13.4,6.8,9.1,Medium,10.35,Medium
+V,Visa Inc.,Financial Services,16.7,1.8,8.2,6.7,Low,6.17,Low
+VRTX,Vertex Pharmaceuticals Inc,Healthcare,22.7,0.8,15.4,6.6,Medium,9.84,Medium
+VZ,Verizon Communications,Communication Services,18.7,3.7,9.6,5.4,Low,6.87,Low
+VRSK,"Verisk Analytics, Inc.",Industrials,17.5,0.1,12.5,5.0,Low,5.29,Low
+VRSN,Verisign Inc,Technology,21.3,4.7,10.8,5.8,Medium,7.78,Medium
+VTR,"Ventas, Inc.",Real Estate,12.9,3.4,3.9,5.6,Low,4.54,Low
+VLO,Valero Energy Corporation,Energy,32.6,20.1,7.4,5.0,High,13.15,High
+UHS,"Universal Health Services, Inc. Class B",Healthcare,33.0,3.7,20.7,8.6,High,13.67,High
+UNH,Unitedhealth Group Incorporated,Healthcare,15.3,0.0,9.7,5.6,Low,6.53,Low
+URI,"United Rentals, Inc.",Industrials,16.9,5.3,6.1,5.4,Low,5.57,Low
+UPS,"United Parcel Service, Inc. Class B",Industrials,18.6,4.2,8.9,5.5,Low,6.0,Low
+UAL,"United Airlines Holdings, Inc.",Industrials,28.6,10.8,12.8,5.0,Medium,9.66,Medium
+UNP,Union Pacific Corp.,Industrials,23.5,7.3,10.6,5.6,Medium,7.78,Medium
+ULTA,"Ulta Beauty, Inc.",Consumer Cyclical,15.6,4.1,7.3,4.3,Low,5.44,Low
+UDR,"Udr, Inc.",Real Estate,13.9,3.7,3.9,6.3,Low,4.93,Low
+USB,U.S. Bancorp,Financial Services,30.3,1.8,15.5,13.0,High,11.51,High
+TSN,"Tyson Foods, Inc.",Consumer Defensive,35.9,14.0,12.4,9.5,High,12.01,High
+TRMB,Trimble Inc.,Technology,12.4,3.8,3.4,5.2,Low,4.04,Low
+TDG,Transdigm Group Incorporated,Industrials,38.7,12.0,17.7,9.0,High,12.81,High
+TT,Trane Technologies Plc,Industrials,15.2,4.4,5.7,5.1,Low,5.0,Low
+TSCO,Tractor Supply Co,Consumer Cyclical,16.1,3.4,8.2,4.5,Low,5.65,Low
+TJX,"Tjx Companies, Inc.",Consumer Cyclical,14.4,1.9,7.7,4.8,Low,5.09,Low
+TMO,"Thermo Fisher Scientific, Inc.",Healthcare,12.8,1.4,4.9,6.5,Low,4.68,Low
+DIS,The Walt Disney Company,Communication Services,15.7,0.0,9.0,6.7,Low,6.06,Low
+TRV,"The Travelers Companies, Inc.",Financial Services,20.3,1.0,9.3,10.0,Medium,7.99,Medium
+SO,The Southern Company,Utilities,33.0,14.7,11.0,7.3,High,11.92,High
+SHW,The Sherwin-Williams Company,Basic Materials,29.4,14.3,9.2,5.8,Medium,10.64,Medium
+MOS,The Mosaic Company,Basic Materials,33.5,13.9,11.1,8.6,High,11.73,High
+KR,The Kroger Co.,Consumer Defensive,21.3,6.6,9.1,5.6,Medium,7.3,Medium
+KHC,The Kraft Heinz Company,Consumer Defensive,33.7,13.5,14.1,6.2,High,11.55,High
+SJM,The J.M. Smucker Company,Consumer Defensive,30.5,12.9,12.0,5.6,High,10.35,Medium
+IPG,"The Interpublic Group of Companies, Inc.",Communication Services,10.3,0.0,5.0,5.3,Low,3.84,Low
+HSY,The Hershey Company,Consumer Defensive,26.0,10.5,10.4,5.1,Medium,8.84,Medium
+HIG,"The Hartford Financial Services Group, Inc.",Financial Services,16.6,1.8,7.2,7.6,Low,6.32,Low
+EL,The Estee Lauder Companies Inc. Class A,Consumer Defensive,25.5,6.9,11.1,7.5,Medium,8.76,Medium
+COO,"The Cooper Companies, Inc.",Healthcare,17.5,2.7,8.8,6.0,Low,6.74,Low
+CI,The Cigna Group,Healthcare,11.6,0.0,6.0,5.7,Low,4.71,Low
+SCHW,The Charles Schwab Corporation,Financial Services,23.3,2.4,8.9,11.9,Medium,9.1,Medium
+ALL,The Allstate Corporation,Financial Services,22.0,1.0,10.1,10.9,Medium,8.68,Medium
+TXT,"Textron, Inc.",Industrials,33.6,10.9,16.1,6.6,High,11.17,High
+TXN,Texas Instruments Incorporated,Technology,20.6,7.8,6.0,6.9,Medium,6.72,Low
+TSLA,"Tesla, Inc.",Consumer Cyclical,25.2,3.3,14.1,7.8,Medium,8.97,Medium
+TER,"Teradyne, Inc.",Technology,17.0,7.1,4.9,5.0,Low,5.48,Low
+TFX,Teleflex Incorporated,Healthcare,29.6,4.8,16.1,8.7,Medium,11.62,High
+TEL,Te Connectivity Ltd,Technology,14.8,5.8,4.4,4.6,Low,4.81,Low
+TGT,Target Corporation,Consumer Defensive,14.4,1.9,7.6,4.9,Low,5.08,Low
+TRGP,Targa Resources Corp.,Energy,33.2,14.2,14.8,4.2,High,11.85,High
+TPR,"Tapestry, Inc.",Consumer Cyclical,14.8,1.1,8.6,5.2,Low,5.33,Low
+TMUS,"T-Mobile Us, Inc.",Communication Services,24.6,4.2,13.4,7.1,Medium,9.21,Medium
+TROW,T Rowe Price Group Inc,Financial Services,16.9,2.4,8.9,5.6,Low,5.95,Low
+SYY,Sysco Corporation,Consumer Defensive,15.9,5.4,6.1,4.5,Low,5.41,Low
+SNPS,Synopsys Inc,Technology,14.4,3.3,6.9,4.2,Low,5.19,Low
+SYF,Synchrony Financial,Financial Services,17.3,0.1,9.9,7.3,Low,6.64,Low
+SYK,Stryker Corporation,Healthcare,28.3,4.0,13.2,11.0,Medium,10.7,Medium
+STLD,Steel Dynamics Inc,Basic Materials,33.0,10.6,14.4,8.1,High,11.12,High
+STT,State Street Corporation,Financial Services,24.1,1.6,12.9,9.5,Medium,8.94,Medium
+SBUX,Starbucks Corp,Consumer Cyclical,24.7,5.8,14.6,4.3,Medium,8.87,Medium
+SWK,"Stanley Black & Decker, Inc.",Industrials,25.3,5.0,12.5,7.8,Medium,8.09,Medium
+LUV,Southwest Airlines Co.,Industrials,30.7,11.0,13.7,5.9,High,10.28,Medium
+SNA,Snap-on Incorporated,Industrials,30.5,9.0,13.9,7.6,High,10.05,Medium
+SWKS,Skyworks Solutions Inc,Technology,28.0,11.8,8.9,7.2,Medium,9.12,Medium
+SPG,"Simon Property Group, Inc.",Real Estate,14.0,3.8,4.0,6.2,Low,4.94,Low
+NOW,"Servicenow, Inc.",Technology,16.6,4.0,6.0,6.6,Low,5.68,Low
+SRE,Sempra,Utilities,23.6,10.9,7.8,4.9,Medium,8.62,Medium
+STX,Seagate Technology Holdings Plcs,Technology,10.7,1.6,3.8,5.3,Low,3.7,Low
+SLB,Schlumberger Limited,Energy,20.3,8.1,6.3,5.9,Medium,7.1,Low
+SBAC,Sba Communications Corp,Real Estate,11.6,3.1,3.2,5.2,Low,4.08,Low
+CRM,"Salesforce, Inc.",Technology,14.9,2.0,7.5,5.4,Low,5.5,Low
+SPGI,S&p Global Inc.,Financial Services,13.0,0.0,6.2,6.8,Low,5.26,Low
+RCL,Royal Caribbean Group,Consumer Cyclical,20.7,8.1,7.7,4.9,Medium,6.98,Low
+ROST,Ross Stores Inc,Consumer Cyclical,18.2,1.8,10.8,5.7,Low,6.57,Low
+ROP,"Roper Technologies, Inc.",Technology,20.4,4.7,9.7,6.1,Medium,7.37,Medium
+ROL,"Rollins, Inc.",Consumer Cyclical,19.3,1.8,10.6,6.9,Low,6.85,Low
+ROK,"Rockwell Automation, Inc.",Industrials,17.7,5.4,6.6,5.7,Low,5.85,Low
+RHI,Robert Half Inc.,Industrials,10.9,0.1,7.4,3.4,Low,3.28,Negligible
+RVTY,"Revvity, Inc.",Healthcare,16.7,0.8,10.1,5.8,Low,6.95,Low
+RMD,Resmed Inc.,Healthcare,26.4,3.5,12.4,10.4,Medium,10.02,Medium
+RSG,Republic Services Inc.,Industrials,20.9,11.2,6.0,3.7,Medium,7.39,Medium
+RF,Regions Financial Corp.,Financial Services,16.9,1.8,6.7,8.4,Low,6.57,Low
+REGN,Regeneron Pharmaceuticals Inc,Healthcare,18.0,0.3,11.0,6.7,Low,7.57,Medium
+REG,Regency Centers Corporation,Real Estate,11.7,3.7,3.2,4.8,Low,4.04,Low
+O,Realty Income Corporation,Real Estate,15.5,4.4,5.3,5.7,Low,5.25,Low
+RJF,"Raymond James Financial, Inc.",Financial Services,27.0,2.3,11.2,13.4,Medium,10.52,Medium
+RL,Ralph Lauren Corporation,Consumer Cyclical,14.6,1.2,7.8,5.6,Low,5.16,Low
+DGX,Quest Diagnostics Inc.,Healthcare,21.2,0.1,13.1,8.0,Medium,8.97,Medium
+PWR,"Quanta Services, Inc.",Industrials,36.9,12.1,15.7,9.0,High,12.25,High
+QCOM,Qualcomm Inc,Technology,15.4,5.3,4.5,5.6,Low,5.03,Low
+QRVO,"Qorvo, Inc.",Technology,28.5,12.3,8.5,7.7,Medium,9.21,Medium
+PHM,"Pultegroup, Inc.",Consumer Cyclical,21.4,9.2,7.3,4.9,Medium,7.15,Low
+PSA,Public Storage,Real Estate,13.1,4.7,2.6,5.7,Low,4.52,Low
+PEG,Public Service Enterprise Group Incorporated,Utilities,27.2,12.5,9.3,5.5,Medium,9.95,Medium
+PTC,"Ptc, Inc",Technology,18.9,4.9,8.6,5.4,Low,6.72,Low
+PRU,"Prudential Financial, Inc.",Financial Services,19.9,0.6,10.0,9.3,Low,7.77,Medium
+PLD,"Prologis, Inc.",Real Estate,10.3,2.7,2.5,5.0,Low,3.67,Low
+PGR,Progressive Corporation,Financial Services,20.0,1.5,8.5,10.1,Medium,7.9,Medium
+PG,Procter & Gamble Company,Consumer Defensive,28.6,9.6,12.2,6.7,Medium,9.77,Medium
+PFG,"Principal Financial Group, Inc.",Financial Services,14.2,0.8,5.8,7.6,Low,5.7,Low
+PPL,Ppl Corporation,Utilities,31.3,17.1,8.9,5.3,High,12.1,High
+PPG,"Ppg Industries, Inc.",Basic Materials,25.2,11.0,7.7,6.5,Medium,8.88,Medium
+PNC,Pnc Financial Services Group,Financial Services,26.1,1.9,13.3,10.8,Medium,9.77,Medium
+PNW,Pinnacle West Capital Corporation,Utilities,30.8,14.7,10.2,5.8,High,11.35,High
+PSX,Phillips 66,Energy,35.4,20.8,8.8,5.8,High,14.05,High
+PM,Philip Morris International Inc.,Consumer Defensive,28.5,3.4,13.5,11.5,Medium,9.87,Medium
+PCG,Pg&e Corporation,Utilities,30.4,9.6,15.4,5.4,High,10.0,Medium
+PFE,Pfizer Inc.,Healthcare,24.6,2.1,12.9,9.6,Medium,9.75,Medium
+PEP,"Pepsico, Inc.",Consumer Defensive,22.1,7.3,9.6,5.2,Medium,7.59,Medium
+PNR,Pentair Plc,Industrials,22.1,6.0,10.0,6.1,Medium,7.23,Low
+PYPL,"Paypal Holdings, Inc.",Financial Services,17.8,2.8,9.2,5.8,Low,6.22,Low
+PAYX,Paychex Inc,Industrials,16.7,3.2,7.2,6.4,Low,5.36,Low
+PH,Parker-Hannifin Corporation,Industrials,29.5,9.5,13.8,6.2,Medium,9.8,Medium
+PARA,Paramount Global Class B,Communication Services,15.0,0.1,7.5,7.4,Low,5.62,Low
+PANW,"Palo Alto Networks, Inc.",Technology,13.9,0.7,7.6,5.6,Low,5.27,Low
+PKG,Packaging Corp of America,Consumer Cyclical,18.6,14.0,1.1,3.6,Low,5.72,Low
+PCAR,Paccar Inc,Industrials,27.6,8.4,11.0,8.3,Medium,9.15,Medium
+ORCL,Oracle Corp,Technology,13.9,0.5,7.8,5.6,Low,5.31,Low
+OKE,"Oneok, Inc.",Energy,25.1,10.8,11.0,3.3,Medium,8.97,Medium
+ON,On Semiconductor Corp,Technology,22.4,11.8,5.7,4.9,Medium,6.99,Low
+OMC,Omnicom Group Inc.,Communication Services,16.3,0.1,9.3,6.9,Low,6.28,Low
+OXY,Occidental Petroleum Corporation,Energy,41.7,25.0,9.7,7.0,Severe,16.68,Severe
+ORLY,"O'reilly Automotive, Inc.",Consumer Cyclical,12.1,0.1,8.1,3.8,Low,4.41,Low
+NXPI,Nxp Semiconductors N.v.,Technology,19.8,8.6,5.4,5.8,Low,6.32,Low
+NVR,"Nvr, Inc.",Consumer Cyclical,20.3,7.2,7.8,5.2,Medium,6.84,Low
+NVDA,Nvidia Corp,Technology,13.6,2.3,4.9,6.3,Low,4.67,Low
+NUE,Nucor Corporation,Basic Materials,32.8,9.3,14.7,8.8,High,10.79,High
+NRG,"Nrg Energy, Inc.",Utilities,32.0,16.8,9.5,5.7,High,12.2,High
+NCLH,Norwegian Cruise Line Holdings Ltd.s,Consumer Cyclical,25.9,9.0,10.9,6.1,Medium,8.89,Medium
+NOC,Northrop Grumman Corp.,Industrials,27.5,7.8,14.4,5.4,Medium,9.06,Medium
+NTRS,Northern Trust Corp,Financial Services,23.9,1.9,11.8,10.2,Medium,9.02,Medium
+NSC,Norfolk Southern Corp.,Industrials,23.9,8.0,10.5,5.4,Medium,7.97,Medium
+NDSN,Nordson Corp,Industrials,24.9,8.2,11.6,5.1,Medium,8.29,Medium
+NI,Nisource Inc.,Utilities,26.0,12.0,9.2,4.9,Medium,9.53,Medium
+NKE,"Nike, Inc.",Consumer Cyclical,19.6,3.0,10.0,6.7,Low,6.91,Low
+NEE,"Nextra Energy, Inc.",Utilities,23.3,9.4,8.3,5.6,Medium,8.18,Medium
+NWSA,News Corporation Class A,Communication Services,11.5,0.0,4.7,6.7,Low,4.12,Low
+NEM,Newmont Corporation,Basic Materials,20.5,7.1,8.2,5.2,Medium,6.95,Low
+NFLX,Netflix Inc,Communication Services,16.4,0.1,7.3,9.0,Low,6.01,Low
+NTAP,"Netapp, Inc",Technology,15.4,2.2,7.7,5.5,Low,5.67,Low
+NDAQ,"Nasdaq, Inc.",Financial Services,13.1,0.0,5.6,7.4,Low,5.38,Low
+MSCI,"Msci, Inc.",Financial Services,16.3,1.6,7.0,7.7,Low,6.27,Low
+MSI,"Motorola Solutions, Inc.",Technology,13.1,2.3,5.1,5.8,Low,4.61,Low
+MS,Morgan Stanley,Financial Services,24.6,1.1,12.9,10.5,Medium,9.34,Medium
+MCO,Moody's Corporation,Financial Services,15.8,1.6,6.1,8.1,Low,6.2,Low
+MNST,Monster Beverage Corporation,Consumer Defensive,29.2,12.1,12.0,5.1,Medium,9.96,Medium
+MDLZ,"Mondelez International, Inc. Class A",Consumer Defensive,22.0,7.2,9.4,5.4,Medium,7.54,Medium
+TAP,Molson Coors Beverage Company Class B,Consumer Defensive,21.4,7.3,8.6,5.5,Medium,7.28,Medium
+MHK,"Mohawk Industries, Inc.",Consumer Cyclical,14.1,5.8,4.2,4.2,Low,4.68,Low
+MAA,"Mid-America Apartment Communities, Inc.",Real Estate,13.1,3.9,3.0,6.3,Low,4.71,Low
+MSFT,Microsoft Corp,Technology,15.1,1.5,7.5,6.1,Low,5.58,Low
+MU,"Micron Technology, Inc.",Technology,18.2,7.2,5.5,5.5,Low,5.93,Low
+MCHP,Microchip Technology Inc,Technology,31.8,15.3,9.2,7.4,High,10.19,Medium
+MGM,Mgm Resorts International,Consumer Cyclical,24.8,1.3,13.0,10.5,Medium,8.74,Medium
+MTD,Mettler-Toledo International,Healthcare,13.1,1.0,7.4,4.7,Low,5.31,Low
+MET,"Metlife, Inc.",Financial Services,16.4,0.7,7.0,8.8,Low,6.64,Low
+META,"Meta Platforms, Inc. Class A",Communication Services,34.1,2.7,21.1,10.3,High,13.26,High
+MRK,"Merck & Co., Inc.",Healthcare,21.4,1.9,10.6,8.9,Medium,8.35,Medium
+MDT,Medtronic Plc,Healthcare,22.8,1.8,13.4,7.6,Medium,9.34,Medium
+MCK,Mckesson Corporation,Healthcare,15.2,1.6,7.3,6.3,Low,5.86,Low
+MCD,Mcdonald's Corporation,Consumer Cyclical,26.0,7.6,12.6,5.8,Medium,9.06,Medium
+MKC,"Mccormick & Company, Incorporated Non-Vtg Cs",Consumer Defensive,26.1,9.6,11.1,5.3,Medium,8.91,Medium
+MA,Mastercard Incorporated,Financial Services,17.1,2.2,6.7,8.3,Low,6.6,Low
+MAS,Masco Corporation,Industrials,22.2,9.7,5.6,6.8,Medium,7.6,Medium
+MLM,Martin Marietta Materials,Basic Materials,30.1,16.7,4.8,8.7,High,11.13,High
+MMC,"Marsh & Mclennan Companies, Inc.",Financial Services,21.1,0.1,11.3,9.7,Medium,8.26,Medium
+MAR,Marriot International Class A,Consumer Cyclical,21.4,8.6,9.2,3.7,Medium,7.37,Medium
+MPC,Marathon Petroleum Corporation,Energy,30.5,17.1,8.1,5.3,High,11.9,High
+MRO,Marathon Oil Corporation,Energy,37.7,21.1,9.1,7.6,High,14.73,Severe
+MTB,M&t Bank Corp.,Financial Services,26.5,2.6,10.3,13.6,Medium,10.41,Medium
+LYB,Lyondellbasell Industries N.v. Class A,Basic Materials,20.7,13.5,2.1,5.1,Medium,7.98,Medium
+LULU,Lululemon Athletica Inc.,Consumer Cyclical,16.9,1.6,9.9,5.5,Low,6.09,Low
+LOW,Lowe's Companies Inc.,Consumer Cyclical,11.8,3.3,5.3,3.2,Low,4.07,Low
+L,Loews Corporation,Financial Services,16.4,0.6,4.3,11.5,Low,7.16,Low
+LMT,Lockheed Martin Corp.,Industrials,30.2,8.0,15.1,7.1,High,9.86,Medium
+LKQ,Lkq Corporation,Consumer Cyclical,11.1,3.8,4.0,3.3,Low,3.73,Low
+LEN,Lennar Corporation Class A,Consumer Cyclical,25.4,11.3,8.6,5.6,Medium,8.51,Medium
+LDOS,"Leidos Holdings, Inc.",Technology,17.6,3.4,9.0,5.3,Low,6.49,Low
+LVS,Las Vegas Sands Corp.,Consumer Cyclical,18.7,2.3,7.7,8.7,Low,6.38,Low
+LRCX,Lam Research Corp,Technology,13.6,4.5,4.0,5.1,Low,4.46,Low
+LH,Labcorp Holdings Inc.,Healthcare,19.7,0.4,12.7,6.6,Low,8.41,Medium
+KLAC,Kla Corporation,Technology,17.2,7.4,5.1,4.6,Low,5.52,Low
+KMI,"Kinder Morgan, Inc.",Energy,19.0,8.3,7.2,3.5,Low,6.83,Low
+KIM,Kimco Realty Corp.,Real Estate,10.9,2.3,2.6,6.0,Low,4.05,Low
+KMB,Kimberly-Clark Corp.,Consumer Defensive,28.5,10.4,10.4,7.6,Medium,9.56,Medium
+KEYS,"Keysight Technologies, Inc.",Technology,7.6,1.2,1.8,4.7,Negligible,2.52,Negligible
+KEY,Keycorp,Financial Services,21.4,1.6,9.2,10.7,Medium,8.43,Medium
+K,Kellanova,Consumer Defensive,28.4,10.6,13.4,4.4,Medium,9.86,Medium
+JNPR,Juniper Networks Inc,Technology,14.8,1.8,7.2,5.8,Low,5.43,Low
+JPM,Jpmorgan Chase & Co.,Financial Services,29.3,1.1,16.5,11.7,Medium,11.02,High
+JCI,Johnson Controls International Plc,Industrials,14.4,4.5,4.6,5.4,Low,4.8,Low
+JNJ,Johnson & Johnson,Healthcare,24.0,0.9,15.0,8.0,Medium,10.08,Medium
+JBHT,Jb Hunt Transport Services Inc,Industrials,14.8,3.3,6.6,5.0,Low,4.8,Low
+J,Jacobs Solutions Inc.,Industrials,22.4,5.3,11.5,5.6,Medium,7.25,Medium
+IRM,Iron Mountain Inc.,Real Estate,14.5,5.0,3.7,5.8,Low,4.97,Low
+IQV,Iqvia Holdings Inc.,Healthcare,19.1,1.3,10.6,7.2,Low,7.72,Medium
+IVZ,Invesco Ltd,Financial Services,22.8,0.7,11.0,11.0,Medium,8.94,Medium
+ISRG,Intuitive Surgical Inc.,Healthcare,21.1,3.7,9.6,7.8,Medium,7.88,Medium
+INTU,Intuit Inc,Technology,16.4,1.0,10.7,4.7,Low,6.47,Low
+IP,International Paper Co.,Consumer Cyclical,24.5,15.1,4.5,4.8,Medium,7.77,Medium
+IFF,International Flavors & Fragrances Inc.,Basic Materials,22.7,10.5,5.6,6.6,Medium,8.05,Medium
+IBM,International Business Machines Corporation,Technology,14.1,1.8,6.2,6.1,Low,5.07,Low
+ICE,Intercontinental Exchange Inc.,Financial Services,19.8,1.7,9.3,8.8,Low,7.53,Medium
+INTC,Intel Corp,Technology,18.9,4.9,7.3,6.6,Low,6.49,Low
+INCY,Incyte Genomics Inc,Healthcare,24.8,1.1,16.3,7.4,Medium,10.59,Medium
+ILMN,Illumina Inc,Healthcare,18.6,0.1,11.6,6.9,Low,7.89,Medium
+ITW,Illinois Tool Works Inc.,Industrials,25.3,7.0,11.8,6.5,Medium,8.29,Medium
+IDXX,Idexx Laboratories Inc,Healthcare,18.7,2.6,7.1,8.9,Low,6.74,Low
+IEX,Idex Corporation,Industrials,29.3,10.3,13.7,5.3,Medium,9.82,Medium
+HBAN,Huntington Bancshares Inc,Financial Services,21.8,2.0,11.2,8.7,Medium,8.11,Medium
+HUM,Humana Inc.,Healthcare,22.5,0.0,16.7,5.7,Medium,10.06,Medium
+HUBB,Hubbell Incorporated,Industrials,19.6,5.6,9.1,4.9,Low,6.44,Low
+HPQ,Hp Inc.,Technology,11.3,0.1,5.1,6.1,Low,4.15,Low
+HST,"Host Hotels & Resorts, Inc.",Real Estate,13.4,3.3,4.6,5.5,Low,4.68,Low
+HRL,Hormel Foods Corporation,Consumer Defensive,30.0,13.3,10.7,6.0,Medium,10.07,Medium
+HON,"Honeywell International, Inc.",Industrials,28.6,11.0,10.6,7.0,Medium,9.68,Medium
+HD,"Home Depot, Inc.",Consumer Cyclical,12.6,3.3,5.6,3.8,Low,4.37,Low
+HOLX,Hologic Inc,Healthcare,25.0,4.6,12.1,8.4,Medium,9.49,Medium
+HLT,Hilton Worldwide Holdings Inc.,Consumer Cyclical,17.6,6.1,7.0,4.4,Low,5.95,Low
+HPE,Hewlett Packard Enterprise Company,Technology,10.7,0.9,4.1,5.6,Low,3.75,Low
+HES,Hess Corporation,Energy,33.1,18.9,7.2,7.0,High,13.0,High
+HSIC,Henry Schein Inc,Healthcare,13.9,2.0,5.7,6.3,Low,5.14,Low
+JKHY,Henry (Jack) & Associates,Technology,18.7,4.3,8.7,5.7,Low,6.7,Low
+HCA,"Hca Healthcare, Inc.",Healthcare,28.8,3.9,17.7,7.2,Medium,11.79,High
+HAS,"Hasbro, Inc.",Consumer Cyclical,7.1,0.0,2.9,4.2,Negligible,2.42,Negligible
+HAL,Halliburton Company,Energy,25.6,9.8,8.9,6.9,Medium,8.85,Medium
+GS,Goldman Sachs Group Inc.,Financial Services,25.5,0.9,12.8,11.8,Medium,9.92,Medium
+GL,Globe Life Inc.,Financial Services,20.4,1.6,8.3,10.5,Medium,8.06,Medium
+GPN,"Global Payments, Inc.",Industrials,20.9,3.7,10.7,6.5,Medium,6.64,Low
+GILD,Gilead Sciences Inc,Healthcare,23.0,1.0,14.3,7.6,Medium,9.63,Medium
+GPC,Genuine Parts Company,Consumer Cyclical,13.7,4.7,5.2,3.8,Low,4.63,Low
+GM,General Motors Company,Consumer Cyclical,28.5,9.8,11.5,7.2,Medium,9.7,Medium
+GIS,"General Mills, Inc.",Consumer Defensive,21.1,8.3,8.7,4.1,Medium,7.2,Low
+GE,General Electric Company,Industrials,40.5,14.2,15.4,10.9,Severe,13.57,High
+GD,General Dynamics Corporation,Industrials,35.2,9.4,18.9,6.9,High,11.5,High
+GEN,Gen Digital Inc.,Technology,16.9,3.3,8.2,5.4,Low,6.13,Low
+IT,"Gartner, Inc.",Technology,18.9,0.1,13.2,5.6,Low,7.64,Medium
+GRMN,Garmin Ltd,Technology,20.7,4.8,11.6,4.3,Medium,7.71,Medium
+FCX,Freeport-Mcmoran Inc.,Basic Materials,31.6,15.3,10.0,6.4,High,11.49,High
+BEN,"Franklin Resources, Inc.",Financial Services,18.3,1.1,9.9,7.3,Low,6.84,Low
+FTV,Fortive Corporation,Technology,34.8,16.1,14.0,4.7,High,11.73,High
+FTNT,"Fortinet, Inc.",Technology,18.9,2.5,10.0,6.4,Low,7.04,Low
+F,Ford Motor Company,Consumer Cyclical,22.4,7.4,6.4,8.5,Medium,7.33,Medium
+FMC,Fmc Corporation,Basic Materials,30.7,14.4,8.9,7.5,High,11.03,High
+FI,"Fiserv, Inc.",Technology,19.6,4.1,8.7,6.8,Low,6.98,Low
+FE,Firstenergy Corp.,Utilities,25.6,10.8,9.0,5.8,Medium,9.1,Medium
+FITB,Fifth Third Bancorp,Financial Services,16.8,1.2,8.1,7.5,Low,6.42,Low
+FIS,"Fidelity National Information Services, Inc.",Technology,17.5,4.1,8.2,5.2,Low,6.28,Low
+FDX,Fedex Corporation,Industrials,19.7,5.7,8.4,5.6,Low,6.48,Low
+FRT,Federal Realty Investment Trust,Real Estate,12.4,2.3,4.3,5.8,Low,4.47,Low
+FAST,Fastenal Co,Industrials,24.7,9.3,8.3,7.1,Medium,8.34,Medium
+FDS,Factset Research Systems,Financial Services,18.4,4.3,8.8,5.3,Low,6.15,Low
+FFIV,"F5, Inc.",Technology,17.1,4.1,7.6,5.4,Low,6.07,Low
+XOM,Exxon Mobil Corporation,Energy,41.6,23.1,10.0,8.5,Severe,16.18,Severe
+EXR,"Extra Space Storage, Inc.",Real Estate,15.2,4.2,3.7,7.3,Low,5.45,Low
+EXPD,"Expeditors International of Washington, Inc.",Industrials,16.6,4.2,7.6,4.8,Low,5.4,Low
+EXPE,"Expedia Group, Inc.",Consumer Cyclical,27.6,4.3,13.3,10.1,Medium,9.64,Medium
+EXC,Exelon Corporation,Utilities,22.9,7.4,9.1,6.4,Medium,7.57,Medium
+ES,Eversource Energy,Utilities,18.6,4.7,8.6,5.4,Low,5.85,Low
+EG,"Everest Group, Ltd.",Financial Services,18.0,1.4,6.7,9.9,Low,7.24,Medium
+ESS,"Essex Property Trust, Inc",Real Estate,12.4,3.5,2.8,6.1,Low,4.46,Low
+EQR,Equity Residential,Real Estate,11.9,3.0,2.9,6.1,Low,4.37,Low
+EQIX,"Equinix, Inc. Reit",Real Estate,13.9,3.4,5.3,5.1,Low,4.73,Low
+EFX,"Equifax, Incorporated",Industrials,23.2,0.1,16.3,6.8,Medium,6.97,Low
+EQT,Eqt Corp,Energy,35.7,17.7,10.1,7.9,High,13.35,High
+EOG,"Eog Resources, Inc.",Energy,34.2,20.2,6.7,7.3,High,13.6,High
+ETR,Entergy Corporation,Utilities,26.7,14.0,7.3,5.3,Medium,10.15,Medium
+EMR,Emerson Electric Co.,Industrials,28.4,8.8,13.1,6.6,Medium,9.43,Medium
+LLY,Eli Lilly & Co.,Healthcare,24.3,2.5,12.6,9.1,Medium,9.53,Medium
+ELV,"Elevance Health, Inc.",Healthcare,11.4,0.1,6.0,5.3,Low,4.61,Low
+EA,Electronic Arts Inc,Communication Services,13.3,0.1,8.4,4.7,Low,5.21,Low
+EW,Edwards Lifesciences Corp,Healthcare,18.6,2.9,8.1,7.6,Low,6.91,Low
+EIX,Edison International,Utilities,27.5,11.0,11.4,5.1,Medium,9.62,Medium
+ECL,"Ecolab, Inc.",Basic Materials,19.9,8.5,6.1,5.3,Low,6.98,Low
+EBAY,Ebay Inc,Consumer Cyclical,17.6,2.7,7.7,7.2,Low,6.05,Low
+ETN,"Eaton Corporation, Plcs",Industrials,17.9,5.5,6.8,5.7,Low,5.95,Low
+DD,"Dupont De Nemours, Inc.",Basic Materials,28.6,14.7,8.0,5.9,Medium,10.49,Medium
+DUK,Duke Energy Corporation,Utilities,27.0,11.5,10.7,4.8,Medium,9.62,Medium
+DTE,Dte Energy Company,Utilities,29.8,15.0,10.0,4.7,Medium,11.18,High
+DOV,Dover Corporation,Industrials,25.9,8.0,12.5,5.4,Medium,8.57,Medium
+D,"Dominion Energy, Inc",Utilities,26.4,11.9,8.8,5.6,Medium,9.55,Medium
+DLTR,Dollar Tree Inc.,Consumer Defensive,20.1,3.3,12.8,4.0,Medium,7.31,Medium
+DG,Dollar General Corp.,Consumer Defensive,17.6,3.5,8.6,5.5,Low,6.14,Low
+DFS,Discover Financial Services,Financial Services,22.5,0.1,11.9,10.5,Medium,8.84,Medium
+DLR,"Digital Realty Trust, Inc.",Real Estate,12.6,2.8,2.8,7.0,Low,4.69,Low
+DXCM,"Dexcom, Inc.",Healthcare,24.0,5.3,10.6,8.1,Medium,8.79,Medium
+DVN,Devon Energy Corporation,Energy,33.8,17.7,8.6,7.5,High,12.88,High
+DAL,"Delta Air Lines, Inc.",Industrials,30.3,9.9,14.6,5.8,High,10.08,Medium
+DE,Deere & Company,Industrials,20.0,2.7,10.8,6.5,Low,6.27,Low
+DHR,Danaher Corporation,Healthcare,11.9,1.4,5.2,5.3,Low,4.47,Low
+DHI,D.R. Horton Inc.,Consumer Cyclical,21.0,8.7,6.7,5.7,Medium,7.0,Low
+CVS,Cvs Health Corporation,Healthcare,22.0,0.0,15.8,6.2,Medium,9.76,Medium
+CMI,Cummins Inc.,Industrials,19.3,5.6,7.7,5.9,Low,6.32,Low
+CSX,Csx Corporation,Industrials,21.9,7.0,10.0,4.8,Medium,7.24,Medium
+CCI,Crown Castle Inc.,Real Estate,10.1,4.1,1.7,4.3,Low,3.47,Low
+CTRA,Coterra Energy Inc.,Energy,36.1,20.3,8.3,7.5,High,14.1,High
+COST,Costco Wholesale Corp,Consumer Defensive,23.3,6.5,11.2,5.6,Medium,8.11,Medium
+CSGP,Costar Group Inc,Real Estate,21.9,4.9,9.3,7.7,Medium,7.48,Medium
+GLW,Corning Incorporated,Technology,16.5,5.5,4.8,6.1,Low,5.37,Low
+CPRT,Copart Inc,Industrials,16.0,1.5,9.0,5.6,Low,4.98,Low
+STZ,"Constellation Brands, Inc.",Consumer Defensive,24.7,9.4,10.0,5.2,Medium,8.38,Medium
+ED,"Consolidated Edison, Inc.",Utilities,23.8,6.9,10.9,6.1,Medium,7.7,Medium
+COP,Conocophillips,Energy,33.9,17.6,8.1,8.3,High,12.9,High
+CAG,"Conagra Brands, Inc.",Consumer Defensive,30.8,10.7,15.4,4.7,High,10.78,High
+CMA,Comerica Incorporated,Financial Services,25.2,2.5,11.0,11.7,Medium,9.65,Medium
+CMCSA,Comcast Corp,Communication Services,23.1,4.0,10.9,8.2,Medium,8.37,Medium
+CL,Colgate-Palmolive Company,Consumer Defensive,26.2,8.3,11.3,6.5,Medium,8.96,Medium
+CTSH,Cognizant Technology Solutions,Technology,14.7,1.1,7.6,5.9,Low,5.46,Low
+KO,Coca-Cola Company,Consumer Defensive,21.6,7.2,9.5,4.9,Medium,7.43,Medium
+CMS,Cms Energy Corporation,Utilities,21.7,9.6,6.8,5.2,Medium,7.8,Medium
+CME,Cme Group Inc.,Financial Services,17.8,2.1,6.5,9.2,Low,6.97,Low
+CLX,Clorox Company,Consumer Defensive,21.6,7.7,8.6,5.3,Medium,7.34,Medium
+CFG,"Citizens Financial Group, Inc.",Financial Services,23.5,2.0,10.1,11.4,Medium,9.13,Medium
+C,Citigroup Inc.,Financial Services,29.2,1.8,13.8,13.7,Medium,11.35,High
+CSCO,"Cisco Systems, Inc.",Technology,13.9,0.4,6.9,6.5,Low,5.16,Low
+CTAS,Cintas Corp,Industrials,18.1,3.0,9.2,5.9,Low,5.73,Low
+CINF,Cincinnati Financial Corp,Financial Services,25.6,1.8,11.0,12.9,Medium,10.11,Medium
+CHD,"Church & Dwight Co., Inc.",Consumer Defensive,19.9,6.9,6.3,6.7,Low,6.6,Low
+CB,Chubb Limited,Financial Services,23.6,1.5,11.5,10.6,Medium,9.05,Medium
+CMG,"Chipotle Mexican Grill, Inc.",Consumer Cyclical,20.7,6.8,9.6,4.3,Medium,7.17,Low
+CVX,Chevron Corporation,Energy,36.6,17.0,9.2,10.4,High,13.4,High
+CHTR,Charter Comm Inc Del Cl a,Communication Services,24.7,6.1,10.7,7.9,Medium,8.71,Medium
+CF,"Cf Industries Holding, Inc.",Basic Materials,29.3,16.2,7.7,5.4,Medium,10.95,High
+CNP,"Centerpoint Energy, Inc.",Utilities,28.7,12.9,10.7,5.1,Medium,10.4,Medium
+CNC,Centene Corporation,Healthcare,19.9,0.1,13.3,6.5,Low,8.62,Medium
+COR,"Cencora, Inc.",Healthcare,12.8,1.6,5.5,5.7,Low,4.78,Low
+CE,Celanese Corporation,Basic Materials,26.1,14.7,5.9,5.6,Medium,9.79,Medium
+CDW,Cdw Corporation,Technology,9.2,2.5,3.2,3.5,Negligible,3.12,Negligible
+CBRE,"Cbre Group, Inc.",Real Estate,8.0,1.5,1.9,4.6,Negligible,3.01,Negligible
+CBOE,"Cboe Global Markets, Inc.",Financial Services,21.0,2.7,7.6,10.6,Medium,8.12,Medium
+CAT,Caterpillar Inc.,Industrials,36.2,10.4,17.7,8.1,High,11.9,High
+CCL,Carnival Corporation,Consumer Cyclical,24.5,9.4,10.1,5.0,Medium,8.36,Medium
+KMX,Carmax Inc.,Consumer Cyclical,12.1,0.1,8.0,4.0,Low,4.43,Low
+CAH,"Cardinal Health, Inc.",Healthcare,14.9,1.2,7.3,6.4,Low,5.81,Low
+COF,Capital One Financial,Financial Services,22.5,0.1,12.3,10.1,Medium,8.76,Medium
+CPB,Campbell Soup Company,Consumer Defensive,23.5,10.9,8.1,4.5,Medium,7.86,Medium
+CPT,Camden Property Trust,Real Estate,16.1,4.0,3.9,8.2,Low,5.86,Low
+CDNS,Cadence Design Systems,Technology,12.0,2.3,4.9,4.8,Low,4.22,Low
+CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,19.3,4.7,9.3,5.3,Low,6.26,Low
+BG,Bunge Global Sa,Consumer Defensive,32.9,14.4,13.3,5.3,High,11.23,High
+BRO,"Brown & Brown, Inc.",Financial Services,20.5,0.1,9.8,10.6,Medium,8.26,Medium
+BR,Broadridge Financial Solutions Inc,Technology,16.6,4.2,7.5,4.9,Low,5.89,Low
+AVGO,Broadcom Inc.,Technology,20.0,7.3,6.0,6.6,Low,6.5,Low
+BMY,Bristol-Myers Squibb Co.,Healthcare,22.7,1.3,14.4,7.1,Medium,9.59,Medium
+BSX,Boston Scientific Corp.,Healthcare,23.1,2.4,11.9,8.9,Medium,9.1,Medium
+BXP,"Boston Properties, Inc.",Real Estate,12.5,2.5,4.5,5.4,Low,4.41,Low
+BWA,Borgwarner Inc.,Consumer Cyclical,12.6,2.7,4.2,5.7,Low,4.2,Low
+BKNG,Booking Holdings Inc.,Consumer Cyclical,19.2,1.0,10.1,8.1,Low,6.77,Low
+BA,Boeing Company,Industrials,39.6,8.8,22.5,8.3,High,12.76,High
+BX,Blackstone Inc.,Financial Services,23.4,2.5,9.6,11.3,Medium,9.03,Medium
+BLK,"Blackrock, Inc.",Financial Services,18.3,0.9,7.4,10.0,Low,7.4,Medium
+BIIB,Biogen Inc.,Healthcare,22.2,0.4,14.5,7.4,Medium,9.55,Medium
+BIO,"Bio-Rad Laboratories, Inc.Class A",Healthcare,17.4,1.2,9.2,7.0,Low,6.94,Low
+BBY,"Best Buy Company, Inc.",Consumer Cyclical,15.9,2.4,9.1,4.4,Low,5.68,Low
+BRK-B,Berkshire Hathaway Class B,Financial Services,20.7,1.0,4.9,14.8,Medium,9.07,Medium
+BDX,"Becton, Dickinson and Co.",Healthcare,23.8,3.0,13.6,7.1,Medium,9.53,Medium
+BAX,Baxter International Inc.,Healthcare,23.6,2.8,13.6,7.1,Medium,9.49,Medium
+BBWI,"Bath & Body Works, Inc.",Consumer Cyclical,28.3,12.2,10.3,5.9,Medium,9.55,Medium
+BK,Bank of New York Mellon Corporation,Financial Services,20.9,1.1,9.9,9.9,Medium,8.14,Medium
+BAC,Bank of America Corporation,Financial Services,28.3,1.7,15.1,11.5,Medium,10.62,Medium
+BALL,Ball Corporation,Consumer Cyclical,12.1,7.6,0.8,3.7,Low,3.71,Low
+AVY,Avery Dennison Corp.,Consumer Cyclical,16.1,11.4,0.9,3.7,Low,4.89,Low
+AVB,"Avalonbay Communities, Inc.",Real Estate,9.8,3.0,2.0,4.8,Negligible,3.51,Low
+AZO,"Autozone, Inc.",Consumer Cyclical,11.0,0.1,7.1,3.8,Low,4.01,Low
+ADP,Automatic Data Processing,Industrials,13.8,2.8,5.5,5.5,Low,4.42,Low
+ADSK,Autodesk Inc,Technology,16.8,3.7,8.2,4.9,Low,6.08,Low
+ATO,Atmos Energy Corporation,Utilities,34.6,14.8,13.4,6.4,High,12.35,High
+T,At&t Inc.,Communication Services,23.9,3.3,13.9,6.7,Medium,9.09,Medium
+AIZ,"Assurant, Inc.",Financial Services,24.1,1.6,10.8,11.7,Medium,9.41,Medium
+AJG,Arthur J. Gallagher & Co.,Financial Services,21.2,0.1,10.9,10.1,Medium,8.34,Medium
+ANET,Arista Networks,Technology,16.7,0.4,8.9,7.4,Low,6.32,Low
+ADM,Archer Daniels Midland Company,Consumer Defensive,31.8,16.6,10.1,5.0,High,10.52,Medium
+ACGL,Arch Capital Group Ltd,Financial Services,22.5,1.5,10.1,10.9,Medium,8.78,Medium
+APTV,Aptiv Plc,Consumer Cyclical,10.7,1.5,3.9,5.3,Low,3.6,Low
+AMAT,Applied Materials Inc,Technology,12.7,4.5,3.0,5.3,Low,4.06,Low
+AAPL,Apple Inc.,Technology,17.2,0.5,7.4,9.4,Low,6.28,Low
+APA,Apa Corporation,Energy,38.8,22.0,8.9,8.0,High,15.22,Severe
+ANSS,Ansys Inc,Technology,15.9,3.5,7.3,5.1,Low,5.69,Low
+ADI,"Analog Devices, Inc.",Technology,22.9,9.3,6.7,7.0,Medium,7.44,Medium
+APH,Amphenol Corporation,Technology,19.6,7.3,4.6,7.6,Low,6.17,Low
+AMGN,Amgen Inc,Healthcare,22.0,0.7,13.5,7.8,Medium,9.23,Medium
+AME,"Ametek, Inc.",Industrials,23.9,8.6,8.5,6.7,Medium,8.0,Medium
+AMP,"Ameriprise Financial, Inc.",Financial Services,20.3,2.1,7.8,10.3,Medium,7.91,Medium
+AWK,"American Water Works Company, Inc",Utilities,21.6,9.0,7.6,5.0,Medium,7.65,Medium
+AMT,American Tower Corporation,Real Estate,10.9,2.9,2.8,5.2,Low,3.91,Low
+AIG,"American International Group, Inc.",Financial Services,24.2,1.6,9.7,12.9,Medium,9.68,Medium
+AXP,American Express Company,Financial Services,18.6,0.1,8.9,9.7,Low,7.54,Medium
+AEP,"American Electric Power Company, Inc.",Utilities,26.1,12.7,8.1,5.4,Medium,9.72,Medium
+AAL,American Airlines Group Inc.,Industrials,26.4,9.9,11.6,4.8,Medium,8.88,Medium
+AEE,Ameren Corporation,Utilities,27.2,12.9,9.1,5.3,Medium,10.05,Medium
+AMZN,Amazon.com Inc,Consumer Cyclical,30.6,6.0,15.4,9.2,High,10.72,High
+MO,"Altria Group, Inc.",Consumer Defensive,31.3,6.1,17.6,7.6,High,11.15,High
+GOOGL,Alphabet Inc. Class A,Communication Services,24.2,1.6,11.2,11.5,Medium,8.89,Medium
+LNT,Alliant Energy Corporation,Utilities,21.4,8.5,6.6,6.3,Medium,7.48,Medium
+ALLE,Allegion Public Limited Company,Industrials,21.8,10.9,5.8,5.0,Medium,7.6,Medium
+ARE,"Alexandria Real Estate Equities, Inc.",Real Estate,13.9,3.9,3.7,6.3,Low,4.92,Low
+ALB,Albemarle Corporation,Basic Materials,26.6,15.4,4.8,6.3,Medium,9.95,Medium
+AKAM,Akamai Technologies Inc,Technology,17.0,3.0,7.1,6.9,Low,6.01,Low
+APD,"Air Products & Chemicals, Inc.",Basic Materials,12.3,7.4,1.5,3.3,Low,4.61,Low
+A,Agilent Technologies Inc.,Healthcare,13.6,1.1,6.4,6.1,Low,5.25,Low
+AFL,Aflac Inc.,Financial Services,18.3,0.3,9.1,8.9,Low,7.24,Medium
+AES,Aes Corporation,Utilities,26.7,13.3,8.2,5.3,Medium,10.02,Medium
+ADBE,Adobe Inc.,Technology,13.1,1.9,6.0,5.2,Low,4.74,Low
+ACN,Accenture Plc,Technology,9.8,0.8,4.6,4.4,Negligible,3.59,Low
+ABBV,Abbvie Inc.,Healthcare,29.9,2.4,17.2,10.4,Medium,12.2,High
+ABT,Abbott Laboratories,Healthcare,24.8,2.3,14.2,8.3,Medium,10.05,Medium
+AOS,A.O. Smith Corporation,Industrials,25.4,7.2,11.9,6.4,Medium,8.37,Medium
+MMM,3m Company,Industrials,37.3,17.2,13.6,6.5,High,12.91,High
